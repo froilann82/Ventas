@@ -1,4 +1,4 @@
-using TiendaVentas.Web.Components;
+using TiendaVentasWeb.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,4 +1,4 @@
-namespace VentasTienda.Api
+namespace TiendasVentas.Api
 {
     public class WeatherForecast
     {
