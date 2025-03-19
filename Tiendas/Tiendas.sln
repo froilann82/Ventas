@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaVenta.Api", "TiendaVenta.Api\TiendaVenta.Api.csproj", "{80869C68-A4C8-48FE-8E66-559C56A5980B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaVentas.Web", "TiendaVentas.Web\TiendaVentas.Web.csproj", "{172A8E3B-613E-422C-AFCA-5F179842E7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80869C68-A4C8-48FE-8E66-559C56A5980B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80869C68-A4C8-48FE-8E66-559C56A5980B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80869C68-A4C8-48FE-8E66-559C56A5980B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80869C68-A4C8-48FE-8E66-559C56A5980B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172A8E3B-613E-422C-AFCA-5F179842E7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172A8E3B-613E-422C-AFCA-5F179842E7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172A8E3B-613E-422C-AFCA-5F179842E7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172A8E3B-613E-422C-AFCA-5F179842E7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31CF8C8-B12D-48C1-9B08-BE7F0C3FD401}
+	EndGlobalSection
+EndGlobal
